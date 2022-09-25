@@ -1,0 +1,9 @@
+.container_image {
+  max-width: 400px;
+  margin: 20px;
+  /* margin: 40px; */
+}
+
+.l_image {
+    margin-right: 100px;
+}
